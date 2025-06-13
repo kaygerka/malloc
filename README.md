@@ -6,6 +6,7 @@ C source code for a custom thread-safe memory allocator, similar in concept to t
 - Multiple Free Lists
 - Thread Safety
 - Memory Blocks and Fenceposts
+- Allocation (my_malloc)
 - Deallocation (my_free)
 - Coalescing
 
